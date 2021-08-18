@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4023409, 2021-03-05T13:43:14-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: PMackinacProMedium by IHOF
+ * URL: https://www.myfonts.com/fonts/ihof/mackinac/pro-medium/
+ * Copyright: Copyright &amp;#xFFFD; 2011 by Michael D. Beens. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d6471");
+  
+@font-face {
+  font-family: "PMackinacProMedium";
+  src: url('%PUBLIC_URL%/mackinac/MyFontsWebfontsKit/webFonts/PMackinacProMedium/font.woff2') format('woff2'), url('%PUBLIC_URL%/mackinac/MyFontsWebfontsKit/webFonts/PMackinacProMedium/font.woff') format('woff');
+}
+
